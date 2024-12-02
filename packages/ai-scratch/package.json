@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
+  "main": "./dist/src/app/index.js",
   "bin": {
-    "ai-extract": "./dist/index.js"
+    "ai-migrate": "./dist/src/app/index.js"
   },
   "scripts": {
     "build": "tsc",
