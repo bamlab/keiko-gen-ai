@@ -1,0 +1,4 @@
+[submodule "packages/starting-app"]
+	path = packages/starting-app
+	url = git@github.com:bamlab/react-tv-space-navigation.git
+	ignore = all
